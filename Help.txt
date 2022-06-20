@@ -1,0 +1,14 @@
+1. When setting preexisting ( a txt document with written down paths for your saved txt files ), make your path like this example 'C://Users//User//Folder//preexisting.txt'
+2. Before running text editor stop by setup.py to set your 'preexisting' txt file if you already have one.
+3. This program can read literally any file extension as long as there is text in said file.
+4. This program is in alpha stage so it is still buggy and unfinished!
+5. Don't expect this program to solve cancer.
+6. Report bugs at 'chillypeppers14@gmail.com' or in the github comment section.
+7. Please send me suggestions for updates or new programs.
+8. Im a amateur so don't effing bonbard me with 'You suck at programming' or 'Wow (a) is such a beginner habit/technique!' or even 'Kill yourself, this program is trash and you should kill yourself!'. Trust me it isn't gonna instantly make me go 'Darn I should have not spend 3+ hours coding this, guess I have to delete it now' or make me instantly turn into a god coder, it just discourages me to follow my dream job.
+9. This is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (Hope I got that name right lmao). Open file 'license.htm' + 'licensesummary.html' for more information. Especially if you are going to use my work.
+10. Foo, Barz, Baz :)
+11. I'm a minor don't be a creep.
+12. Text Editor is located in...wait...do I really have to explain this?
+13. I think you can figure out where setup is located (Hint: The obvious 'setup' folder)
+14. Raw '.py' files located in source, feel free to mod, edit, view, and fork them to your delight. (Follow the gosh darn license though!)
